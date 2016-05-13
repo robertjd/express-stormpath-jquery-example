@@ -1,13 +1,14 @@
-# Express-Stormpath Example Project
-A simple Express.js web application to demonstrate core Stormpath functionality.
+# Express-Stormpath Example Query Project
+
+A simple Express.js web application to demonstrate core Stormpath functionality with a simple JS client.
 
 ### Get Started!
 
 1. Clone this repo to your computer, and cd into the project directory:
 
   ```bash
-  git clone https://github.com/stormpath/express-stormpath-sample-project.git
-  cd express-stormpath-sample-project
+  git clone https://github.com/robertjd/express-stormpath-jquery-example.git
+  cd express-stormpath-jquery-example
   ```
 
 2. Install the dependencies from package.json:

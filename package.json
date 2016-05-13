@@ -1,0 +1,32 @@
+{
+  "name": "express-stormpath-jquery-example",
+  "version": "1.0.0",
+  "description": "A simple Express.js web application to demonstrate core Stormpath functionality with a simple JS client.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertjd/express-stormpath-jquery-example.git"
+  },
+  "keywords": [
+    "stormpath",
+    "express",
+    "example",
+    "sample",
+    "customdata",
+    "express-stormpath",
+    "web app"
+  ],
+  "author": "Stormpath, Inc.",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/robertjd/express-stormpath-jquery-example/issues"
+  },
+  "homepage": "https://github.com/robertjd/express-stormpath-jquery-example",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-stormpath": "^3.0.0"
+  }
+}

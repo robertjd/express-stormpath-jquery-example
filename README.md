@@ -1,4 +1,4 @@
-# Express-Stormpath Example Query Project
+# Express-Stormpath Example jQuery Project
 
 A simple Express.js web application to demonstrate core Stormpath functionality with a simple JS client.
 
